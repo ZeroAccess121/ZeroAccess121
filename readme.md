@@ -215,7 +215,7 @@ I'm a Red Team specialist, pentester, and full stack developer passionate about 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
   
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Warning.gif" width="25" /> 
-  <b>"Zero Access, Zero Access" - Breaking systems to build them stronger</b>
+  <b>"Zero Access" - Breaking systems to build them stronger</b>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Warning.gif" width="25" />
   
   <br>

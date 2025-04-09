@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Red+Team+Specialist;Malware+Analyst;Full+Stack+Developer;Security+Researcher" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=18&duration=1500&pause=500&color=F70000&center=true&width=500&lines=DECRYPTING+THE+DIGITAL+BATTLEFIELD;EXPLOITING+VULNERABILITIES;DEVELOPING+ADVANCED+PAYLOADS;BREAKING+SECURITY+ASSUMPTIONS)](https://git.io/typing-svg)
+  
+</div>
+
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30" /> About Me
@@ -13,6 +19,12 @@
 Cybersecurity professional specializing in offensive security strategies and defensive countermeasures. My expertise spans across malware analysis, red team operations, and full-stack development with a focus on security architecture.
 
 I thrive in deconstructing complex systems, identifying vulnerabilities, and developing innovative solutions to modern security challenges. My technical background combines low-level systems knowledge with practical attack methodologies.
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Specialization-Malware%20Analysis-darkred?style=flat-square" alt="Specialization" />
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-blue?style=flat-square" alt="Status" />
+</div>
 
 <details>
 <summary>📊 Technical Expertise</summary>
@@ -84,7 +96,7 @@ I thrive in deconstructing complex systems, identifying vulnerabilities, and dev
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ZeroAccess121&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeroAccess121&theme=radical&hide_border=true" width="49%" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ZeroAccess121&theme=radical&no-frame=true&row=1&column=6" width="98%" alt="Trophy" />
 </div>
 
 <div align="center">
@@ -94,13 +106,42 @@ I thrive in deconstructing complex systems, identifying vulnerabilities, and dev
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZeroAccess121&color=red&style=flat-square" alt="Profile Views" />
+  
+  ![Visitor Count](https://profile-counter.glitch.me/ZeroAccess121/count.svg)
+  
+</div>
+
+---
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  
 </div>
 
 ---
 
 <div align="center">
   
-  *"Security is a process, not a product."*
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in&layout=churchill&font=default" alt="Quote" />
+      </td>
+      <td>
+        <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
+          <img src="https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+</div>
 
+---
+
+<div align="center">
+  
+  *"The quieter you become, the more you can hear."* — Ram Dass
+  
 </div>

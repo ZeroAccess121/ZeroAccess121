@@ -59,6 +59,8 @@ I thrive in deconstructing complex systems, identifying vulnerabilities, and dev
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -123,25 +125,8 @@ I thrive in deconstructing complex systems, identifying vulnerabilities, and dev
 
 <div align="center">
   
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in&layout=churchill&font=default" alt="Quote" />
-      </td>
-      <td>
-        <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-          <img src="https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in&layout=churchill&font=default" alt="Quote" />
   
 </div>
 
 ---
-
-<div align="center">
-  
-  *"The quieter you become, the more you can hear."* — Ram Dass
-  
-</div>

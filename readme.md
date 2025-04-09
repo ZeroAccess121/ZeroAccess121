@@ -49,11 +49,11 @@ I thrive in deconstructing complex systems, identifying vulnerabilities, and dev
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-0000FF?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### 🌐 Web Technologies & Infrastructure
 
@@ -66,16 +66,16 @@ I thrive in deconstructing complex systems, identifying vulnerabilities, and dev
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🔧 Tools & Environments
+### 🔧 Operating Systems & Environments
 
-![Ghidra](https://img.shields.io/badge/Ghidra-7D4698?style=for-the-badge)
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-A90533?style=for-the-badge)
-![x64dbg](https://img.shields.io/badge/x64dbg-5C2D91?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-4285F4?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ### 🛡️ Security Specialties
 
@@ -119,7 +119,24 @@ I thrive in deconstructing complex systems, identifying vulnerabilities, and dev
   
 </div>
 
+---
 
+<div align="center">
+  
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in&layout=churchill&font=default" alt="Quote" />
+      </td>
+      <td>
+        <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
+          <img src="https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+</div>
 
 ---
 

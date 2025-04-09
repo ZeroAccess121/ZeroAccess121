@@ -119,24 +119,7 @@ I thrive in deconstructing complex systems, identifying vulnerabilities, and dev
   
 </div>
 
----
 
-<div align="center">
-  
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in&layout=churchill&font=default" alt="Quote" />
-      </td>
-      <td>
-        <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-          <img src="https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
-        </a>
-      </td>
-    </tr>
-  </table>
-  
-</div>
 
 ---
 

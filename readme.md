@@ -14,7 +14,6 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="30" /> About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 Cybersecurity professional specializing in offensive security strategies and defensive countermeasures. My expertise spans across malware analysis, red team operations, and full-stack development with a focus on security architecture.
 
@@ -121,12 +120,3 @@ I thrive in deconstructing complex systems, identifying vulnerabilities, and dev
   
 </div>
 
----
-
-<div align="center">
-  
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&animation=grow_out_in&layout=churchill&font=default" alt="Quote" />
-  
-</div>
-
----

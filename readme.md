@@ -2,8 +2,6 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Red+Team+Specialist;Malware+Analyst;Full+Stack+Developer;Security+Researcher" alt="Typing SVG" />
-  
-  <img src="https://github.com/ZeroAccess121/ZeroAccess121/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -85,20 +83,6 @@ Stay tuned — exciting tools and writeups are on the way!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroAccess121&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
----
-
-## 🧪 Future Projects
-
-> **📍 Note:** I'm currently working on exciting security tools and CTF content. Once ready, they will appear here!
-
----
-
-## 📬 Let's Connect!
-
-- GitHub: [ZeroAccess121](https://github.com/ZeroAccess121)
-- Discord: `ZeroAccess121`
-- LinkedIn: [Coming Soon]
-- CTF Handle: `ZeroAccess`
 
 ---
 

@@ -25,18 +25,26 @@ This roadmap starts with **Frontend Development** using HTML, CSS, JS, Bootstrap
 - Responsive design with media queries
 
 **🧪 Tasks:**
-- Clone a simple landing page
-- Build a personal portfolio website
+1. **Task 1: Basic HTML Page**
+   - Build a static webpage using basic HTML tags (`<header>`, `<footer>`, `<section>`, `<div>`, `<h1>`, etc.)
+   - Include a navigation bar, some content sections, and a footer.
 
-**📚 English Resources:**
+2. **Task 2: Simple Portfolio Page**
+   - Create a personal portfolio webpage (just static HTML).
+   - Sections should include: "About Me", "Skills", "Projects", and "Contact".
+
+3. **Task 3: Add CSS Styling**
+   - Use CSS to style the portfolio.
+   - Focus on typography, colors, spacing, and basic layout (flexbox/grid).
+
+4. **Task 4: Responsive Design**
+   - Use media queries to ensure your webpage is mobile-friendly.
+
+**📚 Resources:**
 - [HTML & CSS Full Course - FreeCodeCamp (YouTube)](https://youtu.be/mU6anWqZJcc)
 - [CSS Flexbox & Grid Crash Course - Traversy Media](https://youtu.be/JJSoEo8JSnc)
-- [Frontend Mentor Challenges](https://www.frontendmentor.io/)
-
-**📚 Arabic Resources:**
-- [Elzero Web School - HTML دورة](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzH72MTPuAAaYfReraNlQgM)
-- [Elzero Web School - CSS دورة](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz8dtgQqy3xTX3t3YOEymGo)
-- [Codezilla - HTML & CSS From Zero](https://www.youtube.com/playlist?list=PLknwEmKsW8OtbT1gYGHsTnGM13UehX8f-)
+- [HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ---
 
@@ -47,17 +55,21 @@ This roadmap starts with **Frontend Development** using HTML, CSS, JS, Bootstrap
 - Responsive grid system
 
 **🧪 Tasks:**
-- Build a blog UI using Bootstrap
-- Clone a Bootstrap-based template
+1. **Task 1: Build a Responsive Navbar**
+   - Create a responsive navigation bar using Bootstrap’s Navbar component.
+   - Implement a hamburger menu for mobile view.
 
-**📚 English Resources:**
+2. **Task 2: Blog UI Layout**
+   - Build a blog post listing page using Bootstrap components (cards, buttons, grid system).
+   - Include a search bar, list of blog posts, and a footer.
+
+3. **Task 3: Add Modals**
+   - Create a simple modal dialog (e.g., a contact form) that opens when a button is clicked.
+
+**📚 Resources:**
 - [Bootstrap 5 Crash Course (Traversy Media)](https://youtu.be/4sosXZsdy-s)
 - [Bootstrap Official Docs](https://getbootstrap.com/)
 - [Bootstrap Templates](https://startbootstrap.com/themes)
-
-**📚 Arabic Resources:**
-- [Elzero Web School - Bootstrap 5 شرح كامل](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz8jq68M8n9UbtFB2H0XsOA)
-- [TheNewBaghdad - Bootstrap 5 Overview](https://www.youtube.com/watch?v=zcE1KwC_mTo)
 
 ---
 
@@ -69,18 +81,21 @@ This roadmap starts with **Frontend Development** using HTML, CSS, JS, Bootstrap
 - Dark mode toggle
 
 **🧪 Tasks:**
-- Rebuild blog UI using Tailwind
-- Add Dark Mode switcher
+1. **Task 1: Rebuild Blog UI with Tailwind CSS**
+   - Take the blog layout from Bootstrap and rebuild it using only Tailwind CSS.
+   - Use Tailwind’s grid system, utilities for padding, margin, text sizes, etc.
 
-**📚 English Resources:**
+2. **Task 2: Create a Dark Mode Toggle**
+   - Implement a button that toggles between light and dark modes using Tailwind's `dark` classes.
+
+3. **Task 3: Design a Contact Form**
+   - Build a simple contact form (with fields for name, email, message) and style it with Tailwind.
+
+**📚 Resources:**
 - [Tailwind CSS Full Course (YouTube)](https://youtu.be/UBOj6rqRUME)
 - [Tailwind CSS Docs](https://tailwindcss.com/docs)
 - [Tailwind Playgrounds](https://play.tailwindcss.com/)
 - [DaisyUI components (optional)](https://daisyui.com/)
-
-**📚 Arabic Resources:**
-- [Elzero Web School - Tailwind CSS](https://www.youtube.com/playlist?list=PLDoPjvoNmBAzZP-YJc-RKcKQ9vMi-dOPL)
-- [Codezilla - Tailwind CSS Essentials](https://www.youtube.com/watch?v=0wD2hLkm1qY)
 
 ---
 
@@ -92,20 +107,26 @@ This roadmap starts with **Frontend Development** using HTML, CSS, JS, Bootstrap
 - `fetch` for API calls
 
 **🧪 Mini Labs:**
-- Calculator
-- Form Validator
-- GitHub API Viewer
+1. **Task 1: Build a Calculator App**
+   - Use JavaScript to create a basic calculator (add, subtract, multiply, divide).
+   - Learn how to interact with the DOM to display results.
 
-**📚 English Resources:**
+2. **Task 2: Form Validation**
+   - Build a simple form with JavaScript to validate user input (e.g., required fields, email format).
+   - Show error messages when fields are incorrect.
+
+3. **Task 3: Fetch GitHub API**
+   - Use the `fetch` API to pull user data from GitHub's API.
+   - Display the user’s profile picture, name, and repositories.
+
+4. **Task 4: Build a To-Do List**
+   - Create a to-do list app where users can add, remove, and mark tasks as completed.
+
+**📚 Resources:**
 - [JavaScript Full Course (FreeCodeCamp)](https://youtu.be/PkZNo7MFNFg)
 - [JavaScript.info — Full Guide](https://javascript.info/)
 - [Eloquent JavaScript Book (Free)](https://eloquentjavascript.net/)
 - [MDN JS Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-**📚 Arabic Resources:**
-- [Elzero Web School - JavaScript كامل](https://www.youtube.com/playlist?list=PLDoPjvoNmBAy8cNis9XAK5r4Y4H5GnAWB)
-- [TheNewBaghdad - JavaScript Beginner](https://www.youtube.com/watch?v=QvK5zO2fvP8)
-- [Codezilla - JavaScript Mastery](https://www.youtube.com/playlist?list=PLknwEmKsW8OtTaCGR3IQdZ8gCAXhAv63k)
 
 ---
 
@@ -113,24 +134,26 @@ This roadmap starts with **Frontend Development** using HTML, CSS, JS, Bootstrap
 
 **Topics:**
 - JSX, Components, Props, State
-- Hooks: `useState`, `useEffect`
 - React Router
 - Tailwind + DaisyUI in React
 
 **🧪 Projects:**
-- Blog viewer from placeholder API
-- Post list/detail + navbar
+1. **Task 1: Create a Blog Viewer**
+   - Build a simple blog viewer with React.
+   - Fetch blog posts from a public API and display them in a grid layout.
 
-**📚 English Resources:**
+2. **Task 2: Implement React Router**
+   - Create a simple multi-page app with React Router.
+   - Include pages for the homepage, blog posts, and about.
+
+3. **Task 3: Create a Contact Form in React**
+   - Build a contact form component and use React’s state to manage form input.
+
+**📚 Resources:**
 - [React for Beginners (Net Ninja)](https://youtube.com/playlist?list=PL4cUxeGkcC9ij8CfkAY3qIHX2wVYg0G8l)
 - [React Docs (Official)](https://react.dev/)
 - [React Router Docs](https://reactrouter.com/)
 - [Tailwind + React Setup Guide](https://tailwindcss.com/docs/guides/create-react-app)
-
-**📚 Arabic Resources:**
-- [Elzero Web School - ReactJS دورة كاملة](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz-_V3IuCN_xX2aRkBsHt2A)
-- [Codezilla - React Tutorial](https://www.youtube.com/watch?v=71pAk5lEli0)
-- [TheNewBaghdad - React + Redux](https://www.youtube.com/watch?v=9cKsxj5n4wM)
 
 ---
 
@@ -141,20 +164,26 @@ This roadmap starts with **Frontend Development** using HTML, CSS, JS, Bootstrap
 - Models, migrations, admin
 - Django auth system
 
-**🧪 Projects:**
-- Blog CMS (CRUD)
-- User registration/login
+**🧪 Tasks:**
+1. **Task 1: Set Up Django Project**
+   - Create a Django project and add a blog app.
+   - Set up models for blog posts and create migrations.
+   
+2. **Task 2: Build the Admin Panel**
+   - Create an admin panel to manage blog posts using Django’s built-in admin.
+   
+3. **Task 3: Build Blog Views and Templates**
+   - Create views to display blog posts and templates for rendering them.
+   - Use Django's `Template` system to dynamically display blog content.
 
-**📚 English Resources:**
+4. **Task 4: Implement User Authentication**
+   - Add user registration, login, and logout functionality.
+
+**📚 Resources:**
 - [Django Crash Course (Traversy Media)](https://youtu.be/e1IyzVyrLSU)
 - [Django Official Docs](https://docs.djangoproject.com/en/stable/)
 - [DjangoGirls Tutorial](https://tutorial.djangogirls.org/)
 - [Real Python: Django](https://realpython.com/tutorials/django/)
-
-**📚 Arabic Resources:**
-- [Elzero Web School - Python Django](https://www.youtube.com/playlist?list=PLDoPjvoNmBAz2KpK94hvsy2lFwxm2VrgY)
-- [TheNewBaghdad - Django Framework](https://www.youtube.com/watch?v=3PscjUBq7Jw)
-- [Mahmoud Ahmed - Django CRUD & Auth](https://www.youtube.com/watch?v=8fKhKqB_W_o)
 
 ---
 
@@ -165,17 +194,22 @@ This roadmap starts with **Frontend Development** using HTML, CSS, JS, Bootstrap
 - Token/JWT Auth
 - Connect React → Django API
 
-**🧪 Lab:**
-- Blog API → React Frontend
+**🧪 Tasks:**
+1. **Task 1: Set Up DRF in Django**
+   - Install and configure Django REST Framework.
+   - Create serializers for your models and set up API views.
 
-**📚 English Resources:**
+2. **Task 2: Build Blog API**
+   - Create an API for fetching blog posts (list, create, update, delete).
+   - Use Django REST Framework’s viewsets and routers.
+
+3. **Task 3: Integrate React with DRF API**
+   - Update your React blog viewer to fetch data from the Django API.
+
+**📚 Resources:**
 - [DRF Crash Course (Traversy Media)](https://youtu.be/Uyei2iDA4Hs)
 - [DRF Official Docs](https://www.django-rest-framework.org/)
 - [React + Django Full Stack Guide (Dev Ed)](https://youtu.be/rg7Fvvl3taU)
-
-**📚 Arabic Resources:**
-- [Elzero Web School - Django REST API](https://www.youtube.com/watch?v=ZFTDBmgIf3M)
-- [TheNewBaghdad - Django REST API](https://www.youtube.com/watch?v=j7uEguTtOPI)
 
 ---
 
@@ -191,15 +225,11 @@ This roadmap starts with **Frontend Development** using HTML, CSS, JS, Bootstrap
 - Full Stack Blog (React + DRF)
 - Dockerized & Deployed
 
-**📚 English Resources:**
+**📚 Resources:**
 - [Docker Crash Course](https://youtu.be/3c-iBn73dDE)
 - [Full Stack Deployment with Docker (FreeCodeCamp)](https://youtu.be/7LNl2JlZKHA)
 - [Render Django Deployment](https://render.com/docs/django)
 - [GitHub Actions Docs](https://docs.github.com/en/actions)
-
-**📚 Arabic Resources:**
-- [Elzero Web School - Docker](https://www.youtube.com/watch?v=8kYznXJzHXI)
-- [TechJee - CI/CD with GitHub Actions](https://www.youtube.com/watch?v=HgfJ0T0aG0E)
 
 ---
 
@@ -229,24 +259,18 @@ This roadmap starts with **Frontend Development** using HTML, CSS, JS, Bootstrap
 | PostgreSQL | Database |
 | Docker | Deployment |
 | GitHub Actions | CI/CD |
-| Render / Vercel | Hosting |
+| Render, Railway | Hosting |
 
 ---
 
-## 🧪 Mini Challenges & Labs
+## 📅 Milestones
 
-- JS UI Clone → Rebuild with React
-- Convert Bootstrap UI → Tailwind
-- Build a component library with Tailwind
-- Secure file uploader (JWT + Django)
-- React + DRF Todo with Docker
-
----
-
-## 👨‍💻 Made by [TSociaty (ZeroAccess121)](https://github.com/ZeroAccess121)
-
-> “Master the frontend like an artist, and rule the backend like a hacker.”
+- Week 2: Complete basic HTML & CSS portfolio.
+- Week 4: Fully responsive site using Tailwind.
+- Week 7: React app connected to API.
+- Week 10: Backend API with Django.
+- Week 12: Full-stack app deployed and running.
 
 ---
 
-🔥 LET’S GO FROM ZERO TO FULL STACK HERO 🔥
+This detailed plan is now broken down into manageable weekly tasks with specific projects and tools to use, with a focus on building your skillset from basic frontend to complex backend deployments.
